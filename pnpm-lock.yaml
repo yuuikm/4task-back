@@ -58,7 +58,7 @@ importers:
         version: 0.3.20(mysql2@3.11.4)(ts-node@10.9.2(@types/node@20.17.8)(typescript@5.7.2))
     devDependencies:
       '@nestjs/cli':
-        specifier: ^10.4.8
+        specifier: ^10.0.0
         version: 10.4.8
       '@nestjs/schematics':
         specifier: ^10.0.0
